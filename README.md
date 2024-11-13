@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project focuses on detecting antiviral peptides (AVPs) using peptide sequences and associated characteristics. AVPs are a promising approach to combat viral infections due to their targeted mechanisms. Peptide sequences were collected from [Adobe Acrobat Source](https://acrobat.adobe.com/id/urn:aaid:sc:AP:08315d7a-eeb9-4e7a-847f-46a9c805ee4a).
+This project focuses on detecting antiviral peptides (AVPs) using peptide sequences and associated characteristics. AVPs are a promising approach to combat viral infections due to their targeted mechanisms. This research creates a specialized dataset for viral peptides and applies ensemble machine learning techniques to detect antiviral peptides (AVPs) based on peptide sequences and associated characteristics. By leveraging various computational tools, essential peptide properties were extracted, enabling the use of advanced ensemble classifiers to identify peptides with potential antiviral properties.
+
 
 ## Dataset
 
