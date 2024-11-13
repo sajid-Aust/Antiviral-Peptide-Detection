@@ -17,8 +17,6 @@ The dataset consists of peptide sequences along with their various properties, p
 
 ## Acknowledgments
 
-## Acknowledgments
-
 - [Expasy](https://web.expasy.org/protparam/)
 - [APD3 Tool](https://aps.unmc.edu/prediction)
 - [VaxiJen Tool](https://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html)
