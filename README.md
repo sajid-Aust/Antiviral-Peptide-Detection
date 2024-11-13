@@ -20,8 +20,8 @@ The dataset consists of peptide sequences along with their various properties, p
 ## Acknowledgments
 
 - [Expasy](https://web.expasy.org/protparam/)
-- [APD3 Tool](http://aps.unmc.edu/AP/main.php)
-- [VaxiJen Tool](http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html)
-- [AllerCatPro 2.0](https://allercatpro.bii.a-star.edu.sg/)
+- [APD3 Tool](https://aps.unmc.edu/prediction)
+- [VaxiJen Tool](https://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html)
+- [AllerCatPro 2.0](https://allercatpro.bii.a-star.edu.sg/allergy/index.html)
 
 
