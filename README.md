@@ -17,8 +17,11 @@ The dataset consists of peptide sequences along with their various properties, p
 
 ## Acknowledgments
 
-- **Expasy** – [https://web.expasy.org/protparam/](https://web.expasy.org/protparam/)
-- **APD3 Tool** – [http://aps.unmc.edu/AP/main.php](http://aps.unmc.edu/AP/main.php)
-- **VaxiJen Tool** – [http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html](http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html)
-- **AllerCatPro 2.0** – [https://allercatpro.bii.a-star.edu.sg/](https://allercatpro.bii.a-star.edu.sg/)
+## Acknowledgments
+
+- [Expasy](https://web.expasy.org/protparam/)
+- [APD3 Tool](http://aps.unmc.edu/AP/main.php)
+- [VaxiJen Tool](http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html)
+- [AllerCatPro 2.0](https://allercatpro.bii.a-star.edu.sg/)
+
 
