@@ -15,3 +15,10 @@ The dataset consists of peptide sequences along with their various properties, p
 2. **Model Training**: Trained classifiers (SVM, Random Forest, AdaBoost, XGBoost, etc.) and ensemble methods (Voting, Stacking).
 3. **Evaluation**: Calculated metrics like accuracy, F1 score, and ROC-AUC; saved confusion matrices and ROC curves.
 
+## Acknowledgments
+
+- **Expasy** – [https://web.expasy.org/protparam/](https://web.expasy.org/protparam/)
+- **APD3 Tool** – [http://aps.unmc.edu/AP/main.php](http://aps.unmc.edu/AP/main.php)
+- **VaxiJen Tool** – [http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html](http://www.ddg-pharmfac.net/vaxijen/VaxiJen/VaxiJen.html)
+- **AllerCatPro 2.0** – [https://allercatpro.bii.a-star.edu.sg/](https://allercatpro.bii.a-star.edu.sg/)
+
