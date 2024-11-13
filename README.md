@@ -7,12 +7,7 @@ This project focuses on detecting antiviral peptides (AVPs) using peptide sequen
 
 ## Dataset
 
-The dataset consists of labeled peptide sequences and various characteristics of each sequence. These characteristics were extracted using computational tools:
-
-- **Expasy**: Theoretical pI, extinction coefficient, molecular weight, half-life, instability index, aliphatic index, and GRAVY.
-- **APD3 Tool**: Hydrophobic residue, net charge, and Boman Index.
-- **VaxiJen Tool**: Protective antigenic score.
-- **AllerCatPro 2.0**: Allergenicity.
+The dataset consists of peptide sequences along with their various properties, providing a comprehensive foundation for antiviral peptide (AVP) detection. Each peptide sequence is annotated with properties including molecular weight, theoretical pI, extinction coefficient, half-life (hours), instability index, aliphatic index, GRAVY (Grand Average of Hydropathicity), hydrophobic residue count, net charge, Boman Index (Kcal/mol), protective antigenic score, and allergenicity. These attributes were derived using computational Web tools, allowing for an enriched dataset.
 
 ## Code Workflow
 
